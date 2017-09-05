@@ -43,7 +43,7 @@ var name = 'Tyler';
 
 //What is the difference between arguments and parameters?
 
-  //Answer Here
+  //Parameters are between the parentheses on the function. Arguments replace the parameters when callin the function.
 
 
 //////////////////PROBLEM 5////////////////////
@@ -53,7 +53,7 @@ var name = 'Tyler';
 //What are all the falsy values in JavaScript and how do you check if something is falsy?
 
 
-  //Answer Here
+  //null false undefined 0 NaN " "
 
 
 
