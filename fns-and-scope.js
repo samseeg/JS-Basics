@@ -93,4 +93,4 @@ var name = 'Tyler';
 var innerFn = outerFn;
 
 //Now invoke innerFn.
-innerFn;
+innerFn();
