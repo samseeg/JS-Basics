@@ -66,7 +66,8 @@ var name = 'Tyler';
   function myName() {
     return "Sam";
   }
-  
+  var newMyName = myName;
+  alert(newMyName);
 
 
 //Now save the function definition of myName into a new variable called newMyName
