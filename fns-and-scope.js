@@ -63,7 +63,9 @@ var name = 'Tyler';
 
 //Create a function called myName that returns your name
 
-  //Code Here
+  function myName() {
+    return "Sam";
+  }
   
 
 
