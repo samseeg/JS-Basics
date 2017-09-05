@@ -32,7 +32,7 @@ var name = 'Tyler';
 //then alerts "Welcome, " plus whatever the users name is.
 
   function welcome() {
-    alert("Welcome, " + getName);
+    alert("Welcome, " + getName());
   }
 
 
