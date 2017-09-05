@@ -82,7 +82,7 @@ var name = 'Tyler';
 
 //Create a function called outerFn which returns an anonymous function which returns your name.
 
-  function outerFn()
+  
 
 //Now save the result of invoking outerFn into a variable called innerFn.
 
