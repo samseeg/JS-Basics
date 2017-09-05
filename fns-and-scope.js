@@ -71,9 +71,10 @@ var name = 'Tyler';
 
 //Now save the function definition of myName into a new variable called newMyName
 
-  var newMyName = "Samuel";
-  alert(newMyName);
-
+var newMyName = function() {
+  myName;
+}
+alert(newMyName);
 //Now alert the result of invoking newMyName
 
 
@@ -84,7 +85,7 @@ var name = 'Tyler';
 
 //Create a function called outerFn which returns an anonymous function which returns your name.
 
-  //Code Here
+  function outerFn()
 
 //Now save the result of invoking outerFn into a variable called innerFn.
 
